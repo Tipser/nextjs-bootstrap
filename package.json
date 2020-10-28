@@ -1,0 +1,16 @@
+{
+  "name": "next-bootstrap",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tipser/tipser-elements": "^2.1.45-dev-65024de",
+    "next": "9.5.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}

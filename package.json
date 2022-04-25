@@ -9,7 +9,7 @@
     "postbuild": "next-on-netlify"
   },
   "dependencies": {
-    "@tipser/tipser-elements": "^2.1.67",
+    "@tipser/tipser-elements": "^2.3.32",
     "next": "9.5.5",
     "next-on-netlify": "^2.6.0",
     "react": "17.0.1",

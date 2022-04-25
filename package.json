@@ -12,7 +12,7 @@
     "@tipser/tipser-elements": "^2.1.67",
     "next": "9.5.5",
     "next-on-netlify": "^2.6.0",
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   }
 }

@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tipser/tipser-elements": "^2.1.67",
-    "next": "9.5.5",
+    "next": "12.0.9",
     "next-on-netlify": "^2.6.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
